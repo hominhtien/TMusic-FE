@@ -7,4 +7,17 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Tmusic-FE123213';
+  testCommit = 'Commit 1';
+  testCommit2 = 'Commit 2';
+  testCommit3 = 'Commit 3';
+
+
+  commit4 = 'commit 4';
+  commit5 = 'Commit 5';
+  commit6 = 'Commit 6';
+
+
+  testCommit7 = 'test 7';
+  testCommit8 = 'test 8';
+  testCommit9 = 'test 9';
 }
